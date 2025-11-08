@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.889feb58.css",
-    "main.js": "/static/js/main.e0fbcb99.js",
-    "static/js/453.a1f3d9ea.chunk.js": "/static/js/453.a1f3d9ea.chunk.js",
-    "static/media/kaia_logo.png": "/static/media/kaia_logo.395372f5f432689096c5.png",
-    "static/media/logoicon.png": "/static/media/logoicon.b8c6bb3b508efc2d5ffc.png",
-    "index.html": "/index.html",
-    "main.889feb58.css.map": "/static/css/main.889feb58.css.map",
-    "main.e0fbcb99.js.map": "/static/js/main.e0fbcb99.js.map",
-    "453.a1f3d9ea.chunk.js.map": "/static/js/453.a1f3d9ea.chunk.js.map"
+    "main.css": "/kor-animal-app/static/css/main.889feb58.css",
+    "main.js": "/kor-animal-app/static/js/main.18dd3ba8.js",
+    "static/js/453.a1f3d9ea.chunk.js": "/kor-animal-app/static/js/453.a1f3d9ea.chunk.js",
+    "static/media/kaia_logo.png": "/kor-animal-app/static/media/kaia_logo.395372f5f432689096c5.png",
+    "static/media/logoicon.png": "/kor-animal-app/static/media/logoicon.b8c6bb3b508efc2d5ffc.png",
+    "index.html": "/kor-animal-app/index.html",
+    "main.889feb58.css.map": "/kor-animal-app/static/css/main.889feb58.css.map",
+    "main.18dd3ba8.js.map": "/kor-animal-app/static/js/main.18dd3ba8.js.map",
+    "453.a1f3d9ea.chunk.js.map": "/kor-animal-app/static/js/453.a1f3d9ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.889feb58.css",
-    "static/js/main.e0fbcb99.js"
+    "static/js/main.18dd3ba8.js"
   ]
 }
