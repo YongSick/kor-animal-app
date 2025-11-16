@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/kor-animal-app/static/css/main.889feb58.css",
-    "main.js": "/kor-animal-app/static/js/main.18dd3ba8.js",
-    "static/js/453.a1f3d9ea.chunk.js": "/kor-animal-app/static/js/453.a1f3d9ea.chunk.js",
+    "main.css": "/kor-animal-app/static/css/main.bdc5380e.css",
+    "main.js": "/kor-animal-app/static/js/main.4cc2f7ab.js",
+    "static/js/239.46106fb1.chunk.js": "/kor-animal-app/static/js/239.46106fb1.chunk.js",
+    "static/js/977.dbdfe440.chunk.js": "/kor-animal-app/static/js/977.dbdfe440.chunk.js",
+    "static/js/455.171ad3db.chunk.js": "/kor-animal-app/static/js/455.171ad3db.chunk.js",
+    "static/js/453.0554d5a9.chunk.js": "/kor-animal-app/static/js/453.0554d5a9.chunk.js",
     "static/media/kaia_logo.png": "/kor-animal-app/static/media/kaia_logo.395372f5f432689096c5.png",
     "static/media/logoicon.png": "/kor-animal-app/static/media/logoicon.b8c6bb3b508efc2d5ffc.png",
     "index.html": "/kor-animal-app/index.html",
-    "main.889feb58.css.map": "/kor-animal-app/static/css/main.889feb58.css.map",
-    "main.18dd3ba8.js.map": "/kor-animal-app/static/js/main.18dd3ba8.js.map",
-    "453.a1f3d9ea.chunk.js.map": "/kor-animal-app/static/js/453.a1f3d9ea.chunk.js.map"
+    "main.bdc5380e.css.map": "/kor-animal-app/static/css/main.bdc5380e.css.map",
+    "main.4cc2f7ab.js.map": "/kor-animal-app/static/js/main.4cc2f7ab.js.map",
+    "239.46106fb1.chunk.js.map": "/kor-animal-app/static/js/239.46106fb1.chunk.js.map",
+    "977.dbdfe440.chunk.js.map": "/kor-animal-app/static/js/977.dbdfe440.chunk.js.map",
+    "455.171ad3db.chunk.js.map": "/kor-animal-app/static/js/455.171ad3db.chunk.js.map",
+    "453.0554d5a9.chunk.js.map": "/kor-animal-app/static/js/453.0554d5a9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.889feb58.css",
-    "static/js/main.18dd3ba8.js"
+    "static/css/main.bdc5380e.css",
+    "static/js/main.4cc2f7ab.js"
   ]
 }
